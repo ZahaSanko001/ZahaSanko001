@@ -96,19 +96,6 @@ A visual playground for understanding databases.
 ---
 
 ## `./stats`
-
-<div align="center">
-
-<a href="https://github.com/ZahaSanko001">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZahaSanko001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=A1A1AA&icon_color=7C3AED" />
-</a>
-
-<a href="https://github.com/ZahaSanko001">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahaSanko001&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=A1A1AA" />
-</a>
-
-</div>
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZahaSanko001&bg_color=00000000&color=A1A1AA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&radius=8" />
