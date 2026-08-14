@@ -20,18 +20,17 @@
 ┌──────────────────────────────────────────────────────────────┐
 │  $ whoami                                                    │
 │                                                              │
-│  A CS student who likes making software from first          │
+│  A CS student who likes making software from first           │
 │  principles — then making it look ridiculously good.         │
 │                                                              │
 │  Currently interested in:                                    │
-│  → full-stack systems                                       │
+│  → full-stack systems                                        │
 │  → backend architecture                                      │
 │  → developer tools                                           │
 │  → databases & visualization                                 │
 │  → desktop / Linux tooling                                   │
 │                                                              │
-│  Philosophy:                                                  │
-│  "Don't just use the tool. Understand how the tool works."   │
+│                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -50,22 +49,6 @@ A visual playground for understanding databases.
 - CLI / `npx` runnable
 
 > This is probably the project that best represents what I like building: useful tools with a strong visual layer.
-
-### [attendeeServer](https://github.com/ZahaSanko001/attendeeServer)
-**Attendance platform backend · Java**
-
-Backend infrastructure for an attendance system, with PostgreSQL, vector storage and containerized development.
-
-### [face-recognition](https://github.com/ZahaSanko001/face-recognition)
-**Computer vision service · Python**
-
-A practical computer-vision project focused on face recognition and service integration.
-
-### [MetricForge](https://github.com/ZahaSanko001/MetricForge)
-**Desktop system monitor · C#**
-
-A lightweight desktop utility for bringing CPU, RAM and network information into the workflow.
-
 ---
 
 ## `./stack`
@@ -140,6 +123,6 @@ I'm always interested in interesting software, weird technical problems, and pro
 
 <div align="center">
 
-### `while(alive) { build(); learn(); repeat(); }`
+### ``
 
 </div>
