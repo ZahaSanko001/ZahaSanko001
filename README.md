@@ -2,15 +2,14 @@
 
 # `Ryan` // ZahaSanko001
 
-### Software Engineer in the making · Full-Stack Developer · Systems tinkerer
+### Software Engineer · Full-Stack Developer · Systems tinkerer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=building+things+that+should+have+existed;turning+ideas+into+software;learning+by+breaking+and+fixing;web+%2B+backend+%2B+systems+%2B+data">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=building+things+for+convenience;turning+ideas+into+software;learning+by+breaking+and+fixing;web+%2B+backend+%2B+systems+%2B+data">
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-raiyankarim.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://raiyankarim.vercel.app/)
+[![Web](https://img.shields.io/badge/Portfolio-raiyankarim.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://raiyankarim.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raiyan_Karim-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/raiyan-karim-226254296/)
-[![GitHub](https://img.shields.io/badge/GitHub-ZahaSanko001-111111?style=for-the-badge&logo=github)](https://github.com/ZahaSanko001)
 
 </div>
 
@@ -20,13 +19,13 @@
 ┌──────────────────────────────────────────────────────────────┐
 │  $ whoami                                                    │
 │                                                              │
-│  A CS student who likes making software from first           │
-│  principles — then making it look ridiculously good.         │
+│  A CS student who likes making softwares from first          │
+│  principles — before making it convenient for modern users.  │
 │                                                              │
-│  Currently interested in:                                    │
-│  → full-stack systems                                        │
-│  → backend architecture                                      │
-│  → developer tools                                           │
+│  Currently interested in:                                    │                                     
+│  → developer tools                                           |                                       
+|  → full-stack systems                                        │
+│  → backend architectures                                     │
 │  → databases & visualization                                 │
 │  → desktop / Linux tooling                                   │
 │                                                              │
@@ -88,7 +87,7 @@ A visual playground for understanding databases.
 ```diff
 + building developer-focused tools
 + learning more about systems and architecture
-+ experimenting with Linux / Wayland / desktop workflows
++ experimenting with Linux / hyprland / desktop workflows
 + improving my backend engineering
 + shipping projects instead of collecting tutorials
 ```
@@ -108,9 +107,8 @@ A visual playground for understanding databases.
 
 I'm always interested in interesting software, weird technical problems, and projects worth building.
 
-**Portfolio:** [raiyankarim.vercel.app](https://raiyankarim.vercel.app/)  
+**Webite:** [raiyankarim.vercel.app](https://raiyankarim.vercel.app/)  
 **LinkedIn:** [Raiyan Karim](https://www.linkedin.com/in/raiyan-karim-226254296/)  
-**GitHub:** [@ZahaSanko001](https://github.com/ZahaSanko001)
 
 <div align="center">
 
