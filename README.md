@@ -1,20 +1,10 @@
 <div align="center">
 
-# `Ryan` // ZahaSanko001
-<br>
-
-[![Web](https://img.shields.io/badge/Portfolio-raiyankarim.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://raiyankarim.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raiyan_Karim-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/raiyan-karim-226254296/)
+![spinning donut](donut.gif)
 
 </div>
 
 ---
-
-<div align="center">
-
-![spinning donut](donut.gif)
-
-</div>
 
 ## `./stats`
 <div align="center">
@@ -23,4 +13,3 @@
 
 </div>
 
----
